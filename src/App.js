@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+          <p>Testing the Auto Deploy functionality</p>
       </header>
     </div>
   );
